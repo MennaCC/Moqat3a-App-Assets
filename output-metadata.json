@@ -4,16 +4,16 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "com.mennacc.moqat3a",
-  "variantName": "release",
+  "applicationId": "com.mennacc.moqat3a.mine",
+  "variantName": "mineRelease",
   "elements": [
     {
       "type": "SINGLE",
       "filters": [],
       "attributes": [],
-      "versionCode": 1,
-      "versionName": "1.0.8",
-      "outputFile": "app-release.apk"
+      "versionCode": 3,
+      "versionName": "1.0.10",
+      "outputFile": "app-mine-release.apk"
     }
   ],
   "elementType": "File"
