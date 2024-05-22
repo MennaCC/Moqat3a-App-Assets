@@ -11,8 +11,8 @@
       "type": "SINGLE",
       "filters": [],
       "attributes": [],
-      "versionCode": 7,
-      "versionName": "1.0.19",
+      "versionCode": 9,
+      "versionName": "1.0.20",
       "outputFile": "app-mine-release.apk"
     }
   ],
